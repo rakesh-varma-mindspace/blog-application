@@ -1,12 +1,12 @@
 # Blog Web Application
 
-The goal of this project is to create a Blog web application using Node.js, Express.js, and EJS. The application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application.
+The goal of this project is to create a Blog web application using Node.js, Express.js, and EJS. This application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application.
 
 ## Getting Started
 
 1. Clone this repository.
 2. Install the dependencies using `npm install`.
-3. Start the server using `nodemon index.js`.
+3. Start the server using `node index.js`.
 4. Open your web browser and go to `http://localhost:3000` to see a Blog web application.
 
 ## Features
